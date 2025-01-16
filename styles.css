@@ -113,7 +113,17 @@
     padding: 3px;
     ;
 }
+input {
+  color: var(--text-gray);
+  border: 1px solid var(--text-gray);
+  transition: border-color 0.3s, color 0.3s;
+}
 
+input:focus {
+  color: var(--btn-bg);
+  background-color: var(--bg-electric);
+ 
+}
 .btn {
     /* width: 300px; */
     width: 90%;

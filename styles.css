@@ -32,7 +32,7 @@
   .container {
     background-image: url(./intro-component-with-signup-form-master/images/bg-intro-desktop.png) ;
     /* background: gray; */
-    background-color: rgb(245, 137, 125);
+    background-color: rgb(75, 38, 34);
     color: var(--text-white);
     display: flex;
     justify-content: center;
